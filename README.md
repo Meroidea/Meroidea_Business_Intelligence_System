@@ -82,3 +82,4 @@ App at http://localhost:3000
 - **Backend** → push to GitHub, new Web Service on Render pointing at `backend/`, start command `uvicorn app.main:app --host 0.0.0.0 --port $PORT`.
 - **Supabase** → already hosted; apply migrations via their SQL editor or the Supabase CLI.
 # Meroidea_Business_Intelligence_System
+# Meroidea_Business_Intelligence_System
